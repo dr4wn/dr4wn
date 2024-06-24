@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Formerly @[inertia-lighting](https://github.com/inertia-lighting)
+Founder & Lead Programmer @ [inertia-lighting](https://inertia.lighting)
+
+Former Software Engineering Intern at [Veristat](https://veristat.com), [Accenture](https://github.com/accenture), & [MathWorks](https://github.com/mathworks)
 
 <!--
 **dr4wn/dr4wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
