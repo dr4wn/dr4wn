@@ -2,6 +2,8 @@
 
 Founder & Lead Programmer @ [inertia-lighting](https://inertia.lighting)
 
+Developer @ [nerusleep](https://github.com/nerudevelopment)
+
 Former Software Engineering Intern at [Veristat](https://veristat.com), [Accenture](https://github.com/accenture), & [MathWorks](https://github.com/mathworks)
 
 <!--
