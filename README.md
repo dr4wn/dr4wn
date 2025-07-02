@@ -1,22 +1,20 @@
-### Hi there 👋
+# dr4wn
 
-Founder & Lead Programmer @ [inertia-lighting](https://inertia.lighting)
+Software engineer building real, scalable lighting systems. Proficient in **Luau**, **C++**, and performance-first development.
 
-Developer @ [nerusleep](https://github.com/nerudevelopment)
+---
 
-Former Software Engineering Intern at [Veristat](https://veristat.com), [Accenture](https://github.com/accenture), & [MathWorks](https://github.com/mathworks)
+### Experience
 
-<!--
-**dr4wn/dr4wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formerly at [Veristat](https://www.veristat.com), [Accenture](https://www.accenture.com), and [MathWorks](https://www.mathworks.com)  
+Developer @ [nerusleep](https://github.com/nerusleep) — systems, tooling, game infrastructure
 
-Here are some ideas to get you started:
+Founder @ [inertia-lighting](https://github.com/inertia-lighting) — scalable, real-time lighting tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder @ [avant-solutions](https://github.com/avant-solutions) - lighting solutions focusing in large scale virtual show concepts 
+
+---
+### Links
+
+GitHub: [@nerusleep](https://github.com/nerusleep)  
+Org: [@inertia-lighting](https://github.com/inertia-lighting)
