@@ -1,6 +1,6 @@
 # dr4wn
 
-Software engineer building real, scalable lighting systems. Proficient in **Luau**, **C++**, and performance-first development.
+Software engineer building real, scalable lighting systems. Proficient in **Luau**, **C++**, **Python**, **MATLAB** and performance-first development.
 
 ---
 
