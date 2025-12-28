@@ -6,7 +6,7 @@ Software engineer building real, scalable lighting systems. Proficient in **Luau
 
 ### Experience
 
-Formerly at [Veristat](https://www.veristat.com), [Accenture](https://www.accenture.com), and [MathWorks](https://www.mathworks.com)  
+Formerly at [Massachusetts General Brigham](https://mgb.org), [Veristat](https://www.veristat.com), [Accenture](https://www.accenture.com), and [MathWorks](https://www.mathworks.com)  
 Developer @ [nerusleep](https://github.com/nerusleep) — systems, tooling, game infrastructure
 
 Founder @ [inertia-lighting](https://github.com/inertia-lighting) — scalable, real-time lighting tech
